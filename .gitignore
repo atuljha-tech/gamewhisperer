@@ -1,0 +1,12 @@
+.DS_Store
+
+# Godot API keys (never commit real keys)
+/godot-game/FAL_API_KEY.txt
+/godot-game/ELEVEN_LABS_API_KEY.txt
+
+# Web env
+/web/.env.local
+/web/.env
+
+# Editor
+.vscode/
