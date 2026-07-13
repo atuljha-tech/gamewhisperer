@@ -199,7 +199,9 @@ Screenshot → Falcon AI Vision → JSON SFX Brief → ElevenLabs API → MP3 in
 
 ## 🏆 Built For Hackathon
 
-This project demonstrates the future of **AI-native game development tooling** — where sound design is no longer a bottleneck for indie developers.
+This project was built for the **DEV.to Weekend Challenge: Passion Edition** and demonstrates the future of AI-native game development tooling — where sound design is no longer a bottleneck for indie developers.
+
+> *"Every game deserves great sound. Now every developer can have it."*
 
 ---
 
@@ -211,4 +213,7 @@ MIT
 
 <div align="center">
 Made with ❤️ using <strong>Godot 4</strong> · <strong>ElevenLabs</strong> · <strong>Falcon AI</strong> · <strong>Next.js</strong>
+<br/>
+<br/>
+⭐ Star this repo if you found it useful!
 </div>
